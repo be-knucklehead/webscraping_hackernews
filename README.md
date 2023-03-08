@@ -1,0 +1,1 @@
+This is a basic program to get popular news headline and their link of hackernews website according to score of news.
